@@ -1,0 +1,64 @@
+# Logfile created on 2015-09-04 11:14:57 -0700 by logger.rb/44203
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Starting the New Relic agent in "development" environment.
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] WARN : No configuration file found. Working directory = /Users/kviswanathan/Desktop/Development/sidspeaking
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] WARN : Looked in these locations (based on defaults): /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/.newrelic/newrelic.yml, /Users/kviswanathan/newrelic.yml
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Environment: development
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : No known dispatcher detected.
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Application: development
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing ActiveJob instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing ActiveRecord 4 instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Net instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing deferred Rack instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Rack::Builder middleware instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Rails 3+ middleware instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Rails 4 Controller instrumentation
+[09/04/15 11:14:57 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Rails 4 view instrumentation
+[09/04/15 11:14:58 -0700 Sids-MacBook-Air.local (85204)] INFO : Installing Rails 4 Error instrumentation
+[09/04/15 11:14:58 -0700 Sids-MacBook-Air.local (85204)] INFO : Finished instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Starting the New Relic agent in "development" environment.
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] WARN : No configuration file found. Working directory = /Users/kviswanathan/Desktop/Development/sidspeaking
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] WARN : Looked in these locations (based on defaults): /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/.newrelic/newrelic.yml, /Users/kviswanathan/newrelic.yml
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Environment: development
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Dispatcher: webrick
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Application: development
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing ActiveJob instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing ActiveRecord 4 instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Net instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing deferred Rack instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Rack::Builder middleware instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Rails 3+ middleware instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Rails 4 Controller instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Rails 4 view instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Installing Rails 4 Error instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Finished instrumentation
+[09/04/15 11:17:21 -0700 Sids-MacBook-Air.local (85215)] INFO : Doing deferred dependency-detection before Rack startup
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Starting the New Relic agent in "development" environment.
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] WARN : No configuration file found. Working directory = /Users/kviswanathan/Desktop/Development/sidspeaking
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] WARN : Looked in these locations (based on defaults): /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/.newrelic/newrelic.yml, /Users/kviswanathan/newrelic.yml
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Environment: development
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Dispatcher: webrick
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Application: development
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing ActiveJob instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing ActiveRecord 4 instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Net instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing deferred Rack instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Rack::Builder middleware instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Rails 3+ middleware instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Rails 4 Controller instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Rails 4 view instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Installing Rails 4 Error instrumentation
+[09/04/15 11:17:34 -0700 Sids-MacBook-Air.local (85216)] INFO : Finished instrumentation
+[09/04/15 11:17:35 -0700 Sids-MacBook-Air.local (85216)] INFO : Doing deferred dependency-detection before Rack startup
+[09/04/15 11:17:53 -0700 Sids-MacBook-Air.local (85216)] INFO : delayed_job not available: No DJ worker present. Skipping DJ queue sampler
+[09/04/15 11:17:55 -0700 Sids-MacBook-Air.local (85216)] ERROR : Invalid license key, please contact support@newrelic.com
+[09/04/15 11:17:55 -0700 Sids-MacBook-Air.local (85216)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[09/04/15 11:28:16 -0700 Sids-MacBook-Air.local (85216)] INFO : Starting Agent shutdown

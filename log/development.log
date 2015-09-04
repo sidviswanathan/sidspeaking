@@ -1,0 +1,6 @@
+
+
+Started GET "/" for ::1 at 2015-09-04 11:17:53 -0700
+Processing by BlogController#index as HTML
+  Rendered text template (0.2ms)
+Completed 200 OK in 40ms (Views: 22.7ms | ActiveRecord: 0.0ms)
