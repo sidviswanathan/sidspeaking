@@ -62,3 +62,22 @@
 [09/04/15 11:17:55 -0700 Sids-MacBook-Air.local (85216)] ERROR : Invalid license key, please contact support@newrelic.com
 [09/04/15 11:17:55 -0700 Sids-MacBook-Air.local (85216)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
 [09/04/15 11:28:16 -0700 Sids-MacBook-Air.local (85216)] INFO : Starting Agent shutdown
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Starting the New Relic agent in "development" environment.
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] WARN : No configuration file found. Working directory = /Users/kviswanathan/Desktop/Development/sidspeaking
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] WARN : Looked in these locations (based on defaults): /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/config/newrelic.yml, /Users/kviswanathan/Desktop/Development/sidspeaking/newrelic.yml, /Users/kviswanathan/.newrelic/newrelic.yml, /Users/kviswanathan/newrelic.yml
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Environment: development
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : No known dispatcher detected.
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Application: development
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing ActiveJob instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing ActiveRecord 4 instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Net instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing deferred Rack instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Rack::Builder middleware instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Rails 3+ middleware instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Rails 4 Controller instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Rails 4 view instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Installing Rails 4 Error instrumentation
+[09/04/15 12:05:10 -0700 Sids-MacBook-Air.local (85961)] INFO : Finished instrumentation

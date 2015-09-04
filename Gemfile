@@ -12,11 +12,11 @@ group :development do
 end
 
 group :production do
-  gem 'mysql2', '0.3.13'
+  gem 'pg'
 end
 
 group :test, :development do
-  gem 'sqlite3'
+  gem 'pg'
 end
 
 group :test do
